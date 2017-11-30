@@ -60,6 +60,12 @@ For this event, each registered participant will be required to start an EC2 F1 
     ssh -i <.pem file> centos@<IPv4 Public IP>
     ```
     
+1. Start screen session:
+
+   ```bash
+   screen
+   ```
+   
 1. Run a setup script to configure GUI and download workshop files.
 
     ```bash
